@@ -1,3 +1,14 @@
+/*-------------------------------------------------------
+                    <copyright notice>
+
+ Purpose: Solution of Hackerrank 2D Array - DS Problem
+
+ @author Muhaimenul Islam
+ @version 1.2 4/11/17
+
+ Please fork and leave star if it's useful to you.
+---------------------------------------------------------*/
+
 #include <bits/stdc++.h>
 
 using namespace std;
