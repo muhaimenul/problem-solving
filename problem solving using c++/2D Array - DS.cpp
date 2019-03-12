@@ -3,10 +3,10 @@
 
  Purpose: Solution of Hackerrank 2D Array - DS Problem
 
- @author Muhaimenul Islam
+ @author Muhaimenul Islam <linkedin.com/in/muhaimenul>
  @version 1.2 4/11/17
 
- Please fork and leave star if it's useful to you.
+ Please fork and leave a star if it's useful to you.
 ---------------------------------------------------------*/
 
 #include <bits/stdc++.h>
