@@ -1,7 +1,7 @@
 /*-------------------------------------------------------
                     <copyright notice>
 
- Purpose: Solution of Hackerrank Apple and Orange Problem
+ Purpose: Solution of Hackerrank Array - DS Problem
 
  @author Muhaimenul Islam <linkedin.com/in/muhaimenul>
  @version 1.2 4/11/17
