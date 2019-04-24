@@ -1,4 +1,4 @@
-a/*-------------------------------------------------------
+/*-------------------------------------------------------
                     <copyright notice>
 
  Purpose: Solution of Hackerrank's Equalize the Array Problem
