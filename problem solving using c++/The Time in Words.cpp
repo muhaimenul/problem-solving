@@ -1,4 +1,16 @@
+/*-------------------------------------------------------
+                    <copyright notice>
+
+ Purpose: Solution of Hackerrank's The Time in Words Problem
+
+ @author Muhaimenul Islam <linkedin.com/in/muhaimenul>
+ @version 1.2 4/11/17
+
+ Please fork and leave a star if it's useful to you.
+---------------------------------------------------------*/
+
 #include <bits/stdc++.h>
+
 using namespace std;
 
 char* intToword(int i)
