@@ -118,13 +118,7 @@ char* intToword(int i)
     return ch;
 }
 
-
-int main()
-{
-    int h;
-    cin >> h;
-    int m;
-    cin >> m;
+void timeInWords(int h, int m) {
     char *hr = (char*)malloc(1024 * sizeof(char));
     char *mn = (char*)malloc(1024 * sizeof(char));
     if(m==0)
@@ -198,6 +192,14 @@ int main()
         }
     }
 
+}
 
+int main()
+{
+    int h;
+    cin >> h;
+    int m;
+    cin >> m;
+    timeInWords(h, m);
     return 0;
 }
